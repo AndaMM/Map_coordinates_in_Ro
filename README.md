@@ -4,7 +4,7 @@ Script to map the geographic coordinates from a CSV file on Romanian map - in Py
 =================
 pip install pandas geopandas folium
 
-<b>Thow should the CSV file look like</b>
+<b>How should the CSV file look like</b>
 =================
 annotation	latitude	longitude
 
